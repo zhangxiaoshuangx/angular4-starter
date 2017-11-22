@@ -1,5 +1,5 @@
 # angular4-starter
-一个基于angular4.2.4+bootstrap4.0.0-beta.2+ng-bootstrap1.0.0-beta.5+font-awesome4.7.0+scss+yarn的ng4种子工程
+一个基于angular4.2.4+bootstrap4.0.0-beta.2+ng-bootstrap1.0.0-beta.5+font-awesome4.7.0+scss+yarn的ng4程序
 
 
 ## 记录
