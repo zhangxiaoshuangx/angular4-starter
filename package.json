@@ -1,11 +1,11 @@
 {
-  "name": "resume",
-  "version": "0.0.0",
+  "name": "angular4-starter",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --env=dev --base-href /",
-    "build": "ng build --env=prod --prod --aot  --base-href /resumey/",
+    "build": "ng build --env=prod --prod --aot  --base-href /angular4-starter/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
